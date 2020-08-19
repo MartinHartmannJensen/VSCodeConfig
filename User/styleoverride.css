@@ -1,0 +1,5 @@
+/* Hide the windowframe vscode icon.
+File: workbench.desktop.main.css */
+.window-appicon {
+    width: 0px !important;
+}
