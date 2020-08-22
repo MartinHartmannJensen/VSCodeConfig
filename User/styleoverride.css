@@ -3,3 +3,22 @@ File: workbench.desktop.main.css */
 .window-appicon {
     width: 0px !important;
 }
+
+/* Status bar style */
+.monaco-workbench, .monaco-workbench .part.statusbar {
+    font-family: Fira Code;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+/* Vim powerbar fixed */
+#vscodevim\.vim {
+    position: absolute;
+    left: 33vw;
+    width: 100%;
+}
+
+/* No */
+#be5invis\.vscode-custom-css {
+    display: none;
+}

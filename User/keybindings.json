@@ -102,5 +102,17 @@
         "key": "ctrl+shift+.",
         "command": "-breadcrumbs.focusAndSelect",
         "when": "breadcrumbsPossible"
+    },
+    {
+        "key": "alt+e",
+        "command": "workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+shift+e",
+        "command": "-workbench.view.explorer"
+    },
+    {
+        "key": "alt+o",
+        "command": "outline.focus"
     }
 ]
