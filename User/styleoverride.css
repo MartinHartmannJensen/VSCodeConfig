@@ -12,7 +12,7 @@ File: workbench.desktop.main.css */
 }
 
 /* Vim powerbar fixed */
-#vscodevim\.vim {
+.left-items > #vscodevim\.vim {
     position: absolute;
     left: 33vw;
     width: 100%;
