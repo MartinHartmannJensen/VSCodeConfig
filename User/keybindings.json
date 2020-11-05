@@ -114,5 +114,18 @@
     {
         "key": "alt+o",
         "command": "outline.focus"
+    },
+    {
+        "key": "alt+r",
+        "command": "workbench.action.openRecent"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "-workbench.action.openRecent"
+    },
+    {
+        "key": "f8",
+        "command": "-PowerShell.RunSelection",
+        "when": "editorTextFocus && editorLangId == 'powershell'"
     }
 ]

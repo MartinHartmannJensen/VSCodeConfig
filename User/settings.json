@@ -6,10 +6,10 @@
     "editor.fontWeight": "500",
     "extensions.ignoreRecommendations": false,
     "files.autoSave": "off",
-    "git.ignoreWindowsGit27Warning": true,
-    "glassit.alpha": 255,
-    "glassit.step": 20,
-    "markdownlint.run": "onSave",
+    "powershell.buttons.showRunButtons": false,
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.integratedConsole.showOnStartup": false,
+    "powershell.promptToUpdatePowerShell": false,
     "search.quickOpen.includeHistory": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -23,7 +23,7 @@
     "window.title": "${folderName}${separator}${folderPath}",
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "MojaveMidnight",
     "workbench.iconTheme": null,
-    "workbench.startupEditor": "none",
-    "workbench.colorTheme": "MojaveMidnight"
+    "workbench.startupEditor": "none"
 }
