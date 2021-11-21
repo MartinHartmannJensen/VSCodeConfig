@@ -1,21 +1,30 @@
 {
     "debug.console.closeOnEnd": true,
     "debug.toolBarLocation": "docked",
+    "diffEditor.renderSideBySide": false,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.fontWeight": "500",
+    "editor.wordWrap": "on",
     "extensions.ignoreRecommendations": false,
-    "files.autoSave": "off",
+    "files.autoSave": "onFocusChange",
     "powershell.buttons.showRunButtons": false,
     "powershell.integratedConsole.focusConsoleOnExecute": false,
     "powershell.integratedConsole.showOnStartup": false,
     "powershell.promptToUpdatePowerShell": false,
+    "scm.diffDecorations": "gutter",
+    "scm.diffDecorationsGutterAction": "none",
+    "scm.diffDecorationsGutterVisibility": "hover",
     "search.quickOpen.includeHistory": false,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "terminal.integrated.shellArgs.windows": "-nologo",
+    "todo-tree.general.statusBar": "tags",
     "update.mode": "manual",
-    "vscode_custom_css.imports": ["file:///c:/users/mhart/.vscode/user/styleoverride.css"],
+    "vim.sneak": true,
+    "vim.sneakReplacesF": true,
+    "vim.sneakUseIgnorecaseAndSmartcase": true,
+    "vscode_custom_css.imports": ["file:///c:/users/mhart/.vscode-oss/user/styleoverride.css"],
     "vscode_custom_css.policy": true,
     "window.menuBarVisibility": "toggle",
     "window.openFilesInNewWindow": "on",
@@ -23,7 +32,14 @@
     "window.title": "${folderName}${separator}${folderPath}",
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "MojaveMidnight",
+    "workbench.colorTheme": "Noctis Lux",
+    "workbench.editor.centeredLayoutAutoResize": false,
     "workbench.iconTheme": null,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }

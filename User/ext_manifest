@@ -1,9 +1,12 @@
-be5invis.vscode-custom-css
-jolaleye.horizon-theme-vscode
-lehni.vscode-fix-checksums
-mhartj.mojavemidnight
-ms-python.python
-ms-vscode.powershell
-robertrossmann.remedy
-slevesque.vscode-autohotkey
-vscodevim.vim
+codium --install-extension be5invis.vscode-custom-css
+codium --install-extension Gruntfuggly.todo-tree
+codium --install-extension lehni.vscode-fix-checksums
+codium --install-extension liviuschera.noctis
+codium --install-extension mhartj.mojavemidnight
+codium --install-extension ms-python.python
+codium --install-extension ms-python.vscode-pylance
+codium --install-extension ms-toolsai.jupyter
+codium --install-extension ms-vscode.hexeditor
+codium --install-extension radu-matei.vscode-ubuntu-color-theme
+codium --install-extension vscodevim.vim
+codium --install-extension yile-ou.paddy-color-theme
