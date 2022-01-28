@@ -1,0 +1,14 @@
+be5invis.vscode-custom-css
+bmewburn.vscode-intelephense-client
+Gruntfuggly.todo-tree
+hanenbro.berba
+lehni.vscode-fix-checksums
+liviuschera.noctis
+mhartj.mojavemidnight
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-vscode.hexeditor
+slevesque.vscode-autohotkey
+vscodevim.vim
+yile-ou.paddy-color-theme
