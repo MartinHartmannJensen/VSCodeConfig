@@ -32,7 +32,7 @@
     "window.title": "${folderName}${separator}${folderPath}",
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "CRT UI - Amber (P3 phosphor)",
+    "workbench.colorTheme": "CRT UI - Apple ][ (P1 phosphor)",
     "workbench.editor.centeredLayoutAutoResize": false,
     "workbench.iconTheme": null,
     "workbench.startupEditor": "none",
