@@ -2,7 +2,7 @@
     "debug.console.closeOnEnd": true,
     "debug.toolBarLocation": "docked",
     "diffEditor.renderSideBySide": false,
-    "editor.fontFamily": "Iosevka Custom",
+    "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.fontWeight": "500",
     "editor.wordWrap": "on",
@@ -32,18 +32,18 @@
     "window.title": "${folderName}${separator}${folderPath}",
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": false,
-    "workbench.colorTheme": "Berba",
+    "workbench.colorTheme": "CRT UI - Amber (P3 phosphor)",
     "workbench.editor.centeredLayoutAutoResize": false,
     "workbench.iconTheme": null,
     "workbench.startupEditor": "none",
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ],
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
     "php.validate.executablePath": "C:\\wamp\\bin\\php\\php7.4.9\\php.exe",
     "explorer.confirmDelete": false,
     "vim.vimrc.path": "$HOME/AppData/Roaming/VSCodium/User/vimrc-vsc",
-    "vim.vimrc.enable": true
+    "vim.vimrc.enable": true,
+    "vim.showMarksInGutter": true,
+    "vim.easymotion": true,
+    "workbench.editor.decorations.badges": false
 }
